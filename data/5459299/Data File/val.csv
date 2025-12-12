@@ -1,0 +1,42 @@
+Num.,subject_ID,sex,age,Height(cm),Weight(kg),sysbp,diasbp,hr,bmi,Hypertension,Diabetes,cerebral infarction,cerebrovascular disease
+2,3,Female,50,157,50,160,93,76,20.28479857195018,Stage 2 hypertension,0,0,0
+7,11,Female,48,153,49,126,78,84,20.932120124738347,Prehypertension,0,0,0
+19,24,Female,46,150,48,114,65,79,21.333333333333332,Normal,0,0,0
+22,27,Male,51,170,70,115,64,103,24.22145328719723,Normal,0,0,0
+23,29,Male,51,170,60,129,81,91,20.761245674740483,Prehypertension,0,0,0
+24,30,Male,80,170,70,173,90,73,24.22145328719723,Stage 2 hypertension,0,0,0
+31,41,Female,46,155,50,103,65,66,20.81165452653486,Normal,0,0,0
+32,43,Male,53,155,85,141,72,87,35.379812695109266,Stage 1 hypertension,0,0,0
+34,47,Female,62,148,45,133,76,80,20.54419284149014,Prehypertension,0,0,0
+49,64,Male,82,150,45,122,73,89,20.0,Prehypertension,0,0,0
+58,88,Female,77,153,60,120,69,76,25.63116749967961,Prehypertension,0,cerebral infarction,0
+61,91,Female,53,160,64,116,58,71,25.0,Normal,0,0,cerebrovascular disease
+64,95,Female,64,163,72,153,71,59,27.09925100681245,Stage 1 hypertension,0,0,insufficiency of cerebral blood supply
+81,115,Female,54,150,82,108,66,62,36.44444444444444,Normal,0,0,0
+88,125,Female,69,155,60,160,77,88,24.973985431841832,Stage 2 hypertension,0,0,0
+90,127,Female,21,159,53,110,63,85,20.964360587002098,Normal,0,0,0
+96,136,Female,80,156,60,123,56,58,24.654832347140037,Prehypertension,0,cerebral infarction,0
+104,145,Male,82,162,56,118,55,82,21.33821063862216,Normal,0,0,insufficiency of cerebral blood supply
+113,155,Male,78,165,40,163,63,64,14.692378328741965,Stage 2 hypertension,0,cerebral infarction,0
+114,156,Male,71,160,50,136,68,68,19.53125,Prehypertension,0,0,insufficiency of cerebral blood supply
+118,161,Male,63,165,55,115,62,82,20.2020202020202,Normal,0,0,insufficiency of cerebral blood supply
+120,163,Male,60,173,80,107,73,76,26.729927495071667,Normal,0,0,0
+123,166,Female,53,168,58,135,89,93,20.549886621315192,Prehypertension,0,0,0
+133,178,Male,61,165,60,149,84,98,22.038567493112946,Stage 1 hypertension,0,0,0
+150,198,Male,54,155,82,157,94,76,34.13111342351717,Stage 1 hypertension,0,0,0
+154,203,Female,63,153,54,123,62,52,23.06805074971165,Prehypertension,0,0,0
+158,208,Female,61,162,64,140,87,64,24.386526444139612,Stage 1 hypertension,0,0,0
+163,213,Male,63,169,62,151,91,55,21.707923392038094,Stage 1 hypertension,0,0,0
+165,215,Female,74,155,45,139,75,81,18.730489073881376,Prehypertension,0,0,0
+172,222,Female,58,160,42,111,65,67,16.40625,Normal,Type 2 Diabetes,0,0
+178,229,Male,52,168,55,119,62,94,19.486961451247165,Normal,Type 2 Diabetes,0,0
+181,232,Male,61,165,61,122,62,67,22.405876951331496,Prehypertension,Type 2 Diabetes,0,0
+184,235,Male,55,170,68,119,65,84,23.52941176470588,Normal,Type 2 Diabetes,0,0
+185,237,Male,81,168,58,137,74,61,20.549886621315192,Prehypertension,Type 2 Diabetes,0,0
+188,241,Female,57,162,72,128,79,72,27.434842249657063,Prehypertension,Type 2 Diabetes,0,0
+192,245,Male,54,170,60,137,80,81,20.761245674740483,Prehypertension,Type 2 Diabetes,0,0
+198,252,Male,56,170,74,143,82,60,25.60553633217993,Stage 1 hypertension,Type 2 Diabetes,0,0
+200,254,Female,64,150,47,124,70,77,20.88888888888889,Prehypertension,Type 2 Diabetes,0,0
+203,259,Female,84,152,44,127,65,60,19.04432132963989,Prehypertension,Type 2 Diabetes,0,0
+211,411,Female,24,163,55,108,65,74,20.70081674131507,Normal,0,0,0
+218,418,Male,25,173,63,106,69,67,21.04981790236894,Normal,0,0,0
